@@ -1,0 +1,10 @@
+{
+  "graphs": {
+    "default": "graph:app"
+  },
+  "dependencies": [
+    "main",
+    "graph"
+  ]
+}
+

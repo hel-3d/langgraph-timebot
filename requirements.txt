@@ -1,0 +1,7 @@
+langgraph[cli]==0.4.8
+langchain==0.3.25
+langchain-core==0.3.63
+langchain-openai==0.3.19
+openai==1.83.0
+pydantic==2.11.5
+python-dotenv==1.0.1
