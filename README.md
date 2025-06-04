@@ -63,6 +63,9 @@ A simple stateless chat bot built with LangGraph that responds to user messages 
        ```
        - Note: `client.py` is an additional script for testing via WebSocket and is not required for the task.
 
+![LangGraph Chat Demo](screenshots/langgraph.jpg)
+
+
 ## Usage
 
 - In console mode (`python main.py`), interact directly in the terminal.
